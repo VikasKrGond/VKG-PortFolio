@@ -1,6 +1,6 @@
 export const projects = [
   {
-    title: 'VKG | YT Downloader',
+    title: 'VKG | Video',
     description:"VKG | Video is an Web-App which allows user to video chat directly.This Web-App Web RTC for the Video Calling and It's simple to use you just have to allow camera and microphone permission and keep your name it'll genrate a unique id and you can send this id to whom you wanna video chat directly it elimanites the privacy risk in today's mighty world.",
     image: '/images/VKG-Video.png',
     tags: ['React', 'Express','Socket.io'],

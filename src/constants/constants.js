@@ -1,12 +1,21 @@
 export const projects = [
   {
+    title: 'VKG | YT Downloader',
+    description:"VKG | Video is an Web-App which allows user to video chat directly.This Web-App Web RTC for the Video Calling and It's simple to use you just have to allow camera and microphone permission and keep your name it'll genrate a unique id and you can send this id to whom you wanna video chat directly it elimanites the privacy risk in today's mighty world.",
+    image: '/images/VKG-Video.png',
+    tags: ['React', 'Express','Socket.io'],
+    source: 'https://vkg-video-app.netlify.app/',
+    visit: 'https://vkg-video-app.netlify.app/',
+    id: 0,
+  },
+  {
     title: 'VKG | Music',
     description: "VKG | Music is an simple web app which allows user to listen to the Ad-free music dirctly from YouTube API . You just have to search your favourite music there and it'll show you the four audio card in result from where you can Listen to your Music seamlessly.Furthermore you have controls on audio as well through which you can mange the playback speed , download option e.t.c",
       image: '/images/VKG-MUSIC.png',
       tags: ['YouTube API', 'Javascript', 'HTML/CSS'],
     source: 'https://github.com/VikasKrGond/Music-VKG/tree/main',
     visit: 'https://vikaskrgond.github.io/Music-VKG/',
-    id: 0,
+    id: 1,
   },
   {
     title: 'VKG | YT Downloader',
@@ -15,7 +24,7 @@ export const projects = [
     tags: ['React', 'JavaScript'],
     source: 'https://github.com/VikasKrGond/VKG-YT-Video',
     visit: 'https://vikaskrgond.github.io/VKG-YT-Video/',
-    id: 1,
+    id: 2,
   },
   {
     title: 'VKG | Portfolio',
@@ -24,7 +33,7 @@ export const projects = [
       tags: ['NextJS', 'React Style Components'],
     source: '#',
     visit: 'vikaskumargond.ml',
-    id: 2,
+    id: 3,
   },
   {
     title: 'VKG | News',
@@ -33,7 +42,7 @@ export const projects = [
     tags: ['React', 'Javascript', 'News API'],
     source: 'https://github.com/VikasKrGond/VKG-News',
     visit: 'https://vikaskrgond.github.io/VKG-News/',
-    id: 3,
+    id: 4,
   },
 ];
 
